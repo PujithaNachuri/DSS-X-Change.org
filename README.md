@@ -2,7 +2,7 @@
 
 Hi there! This project was a collaborative effort between 7 UC Berkeley students (Nikki Trueblood, Natraj Vairavan, Kristen Vitolo, Preetha Kumar, Vikash Giritharan, Sooyeon Kim, and Pujitha Nachuri) and Change.org.
 
-Due to a Non-Disclosure Agreement, the coding files cannot not be uploaded. Instead, a slide presentation of our final deliverable can be accessed for an in-depth overview of our project, findings, and analyses.
+In this repository, you can find a slide presentation of our final deliverable can be accessed for an in-depth overview of our project, findings, and analyses. (Due to a Non-Disclosure Agreement, the coding files cannot not be uploaded).
 
 Context: Change.org is a website providing a platform to create petitions for various social causes. 
 
